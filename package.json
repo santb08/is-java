@@ -1,0 +1,22 @@
+{
+  "name": "is-java",
+  "version": "0.0.1",
+  "description": "A tools package that'll help you determine if you are currently on Java's env",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tortutales/is-java.git"
+  },
+  "author": "Santiago Betancur<santiagobetancur@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tortutales/is-java/issues"
+  },
+  "homepage": "https://github.com/tortutales/is-java#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
